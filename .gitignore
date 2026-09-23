@@ -1,0 +1,13 @@
+# market data is licensed and not redistributed
+data/
+out/
+*.csv
+*.csv.gz
+*.zip
+*.parquet
+*.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
